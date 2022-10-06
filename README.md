@@ -1,4 +1,4 @@
-# Oispa KaLussa!
-Saatko kirjoitettua laudaturin? KaLu-teemainen oispakaljaa-klooni.
+# oispa möljöö!
+huonosti tehty oispakaljaa-klooni.
 
-Pelaa [täällä](https://oispa.ml/)!
+pelaa [täällä](https://oispa.ml/) tai [täällä](https://zeriax.com/oispamoljoo)!
